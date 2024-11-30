@@ -1,1 +1,2 @@
 # BluePine-Project
+## Project scope
